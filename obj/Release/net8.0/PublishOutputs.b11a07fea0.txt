@@ -1,0 +1,7 @@
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\webapp.exe
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\appsettings.json
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\webapp.dll
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\webapp.deps.json
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\webapp.runtimeconfig.json
+C:\Azure\Dotnet\DotNet8\webapp\bin\Release\net8.0\publish\webapp.pdb
